@@ -6,6 +6,6 @@
 
     <body>
         <h1>Lista de exercicios:</h1>
-        <br />
+        <hr />
     </body>
 </html>
