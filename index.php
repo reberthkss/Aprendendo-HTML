@@ -1,6 +1,7 @@
 <html>
     <head>
         <title> Exercicios de HTML </title>
+        <link href="css/styles.css" type="text/css" rel="stylesheet " />
     </head>
 
 
